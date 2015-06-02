@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GCM Test</string>
+    <string name="title_activity_main">GCM Immersion</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
